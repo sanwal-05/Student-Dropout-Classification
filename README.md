@@ -78,4 +78,4 @@ The project has several avenues for further development:
 *   `01_target_distribution.png` - `08_feature_importance_best_model.png`: Visual artifacts generated during analysis.
 
 ---
-**B.Tech Mini Project | 2024**
+**Supervised Learning | Mini Project | 2026**
